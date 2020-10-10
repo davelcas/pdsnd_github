@@ -12,4 +12,4 @@ The files chicago.csv, new_york_city.csv and washington.csv display the raw data
 The file bikeshare.py contains the code develop in python
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+To perform this project I browse the web and use info from the python panda official documentation and from several github repositories and velog entries.
